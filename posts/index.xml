@@ -1,14 +1,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>所有文章 - CK&#39;s Blog</title>
-        <link>https://cknightx.github.io/posts/</link>
+        <link>http://example.org/posts/</link>
         <description>所有文章 | CK&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 03 Sep 2021 00:02:12 &#43;0800</lastBuildDate><atom:link href="https://cknightx.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 03 Sep 2021 01:04:10 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Blog搭建小记</title>
+    <link>http://example.org/posts/blog%E6%90%AD%E5%BB%BA%E5%B0%8F%E8%AE%B0/</link>
+    <pubDate>Fri, 03 Sep 2021 01:04:10 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/posts/blog%E6%90%AD%E5%BB%BA%E5%B0%8F%E8%AE%B0/</guid>
+    <description><![CDATA[前言 折腾了hexo、hugo、gridea几种静态博客生成工具，最后还是决定用hugo了。hexo依赖nodejs，而且总感觉生成速度有点慢]]></description>
+</item><item>
     <title>First</title>
-    <link>https://cknightx.github.io/posts/first/</link>
+    <link>http://example.org/posts/first/</link>
     <pubDate>Fri, 03 Sep 2021 00:02:12 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://cknightx.github.io/posts/first/</guid>
+    <guid>http://example.org/posts/first/</guid>
     <description><![CDATA[Hello, world!
 #include&lt;iostream&gt;using namespace std; int main() { cout &lt;&lt; &#34;hello,world!&#34;; return 0; } ]]></description>
 </item></channel>

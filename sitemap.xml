@@ -2,11 +2,13 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/posts/blog%E6%90%AD%E5%BB%BA%E5%B0%8F%E8%AE%B0/</loc><lastmod>2021-09-03T01:04:10&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/</loc><lastmod>2021-09-03T01:04:10&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/posts/</loc><lastmod>2021-09-03T01:04:10&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/categories/</loc><lastmod>2021-09-03T00:02:12&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/posts/first/</loc><lastmod>2021-09-03T00:02:12&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/categories/test/</loc><lastmod>2021-09-03T00:02:12&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/about/</loc><lastmod>2021-09-02T23:46:27&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/tags/</loc></url></urlset>
+            <loc>https://cknightx.github.io/categories/</loc><lastmod>2021-09-04T10:58:30&#43;08:00</lastmod></url><url>
+            <loc>https://cknightx.github.io/</loc><lastmod>2021-09-04T10:58:30&#43;08:00</lastmod></url><url>
+            <loc>https://cknightx.github.io/categories/game/</loc><lastmod>2021-09-04T10:58:30&#43;08:00</lastmod></url><url>
+            <loc>https://cknightx.github.io/posts/</loc><lastmod>2021-09-04T10:58:30&#43;08:00</lastmod></url><url>
+            <loc>https://cknightx.github.io/posts/steam%E7%89%88bsd%E7%BC%96%E8%BE%91%E5%AD%98%E6%A1%A3%E5%90%8D%E9%97%AA%E9%80%80%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</loc><lastmod>2021-09-04T10:58:30&#43;08:00</lastmod></url><url>
+            <loc>https://cknightx.github.io/posts/blog%E6%90%AD%E5%BB%BA%E5%B0%8F%E8%AE%B0/</loc><lastmod>2021-09-03T01:04:10&#43;08:00</lastmod></url><url>
+            <loc>https://cknightx.github.io/posts/first/</loc><lastmod>2021-09-03T00:02:12&#43;08:00</lastmod></url><url>
+            <loc>https://cknightx.github.io/categories/test/</loc><lastmod>2021-09-03T00:02:12&#43;08:00</lastmod></url><url>
+            <loc>https://cknightx.github.io/about/</loc><lastmod>2021-09-02T23:46:27&#43;08:00</lastmod></url><url>
+            <loc>https://cknightx.github.io/tags/</loc></url></urlset>

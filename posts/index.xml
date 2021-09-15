@@ -3,13 +3,27 @@
         <title>所有文章 - CK&#39;s Blog</title>
         <link>https://cknightx.github.io/posts/</link>
         <description>所有文章 | CK&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 04 Sep 2021 10:58:30 &#43;0800</lastBuildDate><atom:link href="https://cknightx.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Steam版bsd编辑存档名闪退解决方案</title>
-    <link>https://cknightx.github.io/posts/steam%E7%89%88bsd%E7%BC%96%E8%BE%91%E5%AD%98%E6%A1%A3%E5%90%8D%E9%97%AA%E9%80%80%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</link>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 14 Sep 2021 10:59:08 &#43;0800</lastBuildDate><atom:link href="https://cknightx.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>GAL游戏簿《Baldr Sky》</title>
+    <link>https://cknightx.github.io/posts/gal%E6%B8%B8%E6%88%8F%E7%B0%BFbaldr-sky/</link>
+    <pubDate>Tue, 14 Sep 2021 10:59:08 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://cknightx.github.io/posts/gal%E6%B8%B8%E6%88%8F%E7%B0%BFbaldr-sky/</guid>
+    <description><![CDATA[耗时102小时，我终于推完了大名鼎鼎的BSD。游戏实在是太长了，如果没有大段空闲时间，还是要考虑一下是否开坑。连续几天推到半夜，空线更是肝到]]></description>
+</item><item>
+    <title>VirtualBox开机进入UEFI SHELL解决方案</title>
+    <link>https://cknightx.github.io/posts/virtualbox%E5%BC%80%E6%9C%BA%E8%BF%9B%E5%85%A5uefi_shell%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</link>
+    <pubDate>Thu, 09 Sep 2021 23:14:52 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://cknightx.github.io/posts/virtualbox%E5%BC%80%E6%9C%BA%E8%BF%9B%E5%85%A5uefi_shell%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</guid>
+    <description><![CDATA[问题发生在VirtualBox安装ArchLinux的过程中。系统已经装好，但是启动还是优先从光驱的镜像启动。于是我图省事直接强制结束虚拟机]]></description>
+</item><item>
+    <title>Steam版Baldr Sky编辑存档名闪退解决方案</title>
+    <link>https://cknightx.github.io/posts/steam%E7%89%88baldr-sky%E7%BC%96%E8%BE%91%E5%AD%98%E6%A1%A3%E5%90%8D%E9%97%AA%E9%80%80%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</link>
     <pubDate>Sat, 04 Sep 2021 10:58:30 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://cknightx.github.io/posts/steam%E7%89%88bsd%E7%BC%96%E8%BE%91%E5%AD%98%E6%A1%A3%E5%90%8D%E9%97%AA%E9%80%80%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</guid>
-    <description><![CDATA[问题的起因是在推菜叶线的过程中，存档时手滑点到了编辑，然后又点到了某个存档上。随后游戏直接闪退，且再次进入不能。每次启动都是先黑屏，然后右下]]></description>
+    <guid>https://cknightx.github.io/posts/steam%E7%89%88baldr-sky%E7%BC%96%E8%BE%91%E5%AD%98%E6%A1%A3%E5%90%8D%E9%97%AA%E9%80%80%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</guid>
+    <description><![CDATA[问题的起因是在推菜叶线的过程中，存档时手滑点到了编辑，然后又点到了某个存档上。随后游戏直接闪退，且再次进入不能。每次启动都是在右下角load]]></description>
 </item><item>
     <title>Blog搭建小记</title>
     <link>https://cknightx.github.io/posts/blog%E6%90%AD%E5%BB%BA%E5%B0%8F%E8%AE%B0/</link>
@@ -17,13 +31,5 @@
     <author>作者</author>
     <guid>https://cknightx.github.io/posts/blog%E6%90%AD%E5%BB%BA%E5%B0%8F%E8%AE%B0/</guid>
     <description><![CDATA[前言 折腾了hexo、hugo、gridea几种静态博客生成工具，最后还是决定用hugo了。hexo依赖nodejs，而且总感觉生成速度有点慢]]></description>
-</item><item>
-    <title>First</title>
-    <link>https://cknightx.github.io/posts/first/</link>
-    <pubDate>Fri, 03 Sep 2021 00:02:12 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://cknightx.github.io/posts/first/</guid>
-    <description><![CDATA[Hello, world!
-#include&lt;iostream&gt;using namespace std; int main() { cout &lt;&lt; &#34;hello,world!&#34;; return 0; } ]]></description>
 </item></channel>
 </rss>
